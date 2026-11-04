@@ -1,0 +1,11 @@
+config/config.db
+config/*.toml
+
+logs/
+__pycache__
+*.pyc
+*.db
+*.pkl
+*.log
+
+.git/
